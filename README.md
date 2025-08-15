@@ -18,7 +18,7 @@
 ## 📌 Proyectos Destacados
  
 - **[Tralkan Comic](https://github.com/tuusuario/tralkancomic)** – Sitio web interactivo para cómic, con animaciones y contenido multimedia.
-- **[Gestion Curricular](https://github.com/tuusuario/gestion-curricular)** – Plataforma modular Blazor Server con API y autenticación compartida.
+- **[Red Apicultura Natural Regenerativa](https://github.com/pjuarezm-dev/red-anr)** - Sitio web para la difusión de la Apicultura Natural Regenerativa
 - **Proyectos UACh** - Diversos proyectos implementados para gestión de información para la Universidad Austral de Chile
 
 ---
